@@ -9,9 +9,9 @@
 
 
 ## Objective
-As a <b>cybersecurity enthusiast,</b> I bring a robust skill set encompassing strong written and verbal communication, adept time management, and proficient programming capabilities. My passion lies in safeguarding organizations and individuals from cyber threats while ensuring adherence to legal frameworks and promoting equitable access to technology.
+As a <b>cybersecurity enthusiast,</b> I bring a robust skill set encompassing <b>strong written and verbal communication</b>, adept <b>time management</b>, and proficient programming capabilities. My passion lies in <b>safeguarding</b> organizations and individuals from cyber threats while ensuring <b>adherence</b> to legal frameworks and promoting equitable access to technology.
 
-My journey in computer science has ignited a fervent interest in cybersecurity, propelling me towards a career transition into this dynamic field. I am particularly drawn to the mission of a Security Operations Center (SOC) and aspire to contribute as a Tier 1 Analyst, leveraging my diverse skill set to proactively defend against cybercriminal activities and mitigate risks effectively.
+My journey in computer science has ignited a fervent interest in cybersecurity, propelling me towards a career transition into this dynamic field. I am particularly drawn to the mission of a Security Operations Center (SOC) and aspire to contribute as a Tier 1 Analyst, leveraging my diverse skill set to proactively <b>defend against cybercriminal activities and mitigate risks effectively.</b>
 
 I am enthusiastic about the opportunity to apply my skills and dedication to protecting digital assets and fostering a secure digital environment. Joining a forward-thinking organization where I can collaborate with like-minded professionals to tackle emerging cybersecurity challenges is a goal I am eager to pursue.
 
