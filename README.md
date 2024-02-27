@@ -4,12 +4,12 @@
 <a href="https://linkedin.com/in/stanleysajere" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.youtube.com/@Omaztech/videos"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a> <!--<a href="https://www.tiktok.com/@holyfathar?_t=8jp5UctjhXJ&_r=1"><img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>-->
 
 
-[Brief Introduction]
-
+## Introduction
+As a cybersecurity enthusiast with strong communication, time management, and programming skills, I am passionate about safeguarding organizations and individuals from cyber threats while ensuring adherence to legal frameworks and promoting equitable access to technology. With a background in Physics and Electronics.
 
 
 ## Objective
-As a cybersecurity enthusiast with strong communication, time management, and programming skills, I am passionate about safeguarding organizations and individuals from cyber threats while ensuring adherence to legal frameworks and promoting equitable access to technology. With a background in Physics and Electronics, I am transitioning into cybersecurity with a focus on contributing to Security Operations Centers (SOCs) as a Tier 1 Analyst. I am eager to utilize my skills to proactively defend against cybercriminal activities and mitigate risks effectively, ultimately fostering a secure digital environment. Joining a forward-thinking organization where I can collaborate with like-minded professionals to address emerging cybersecurity challenges is my goal.
+ I am transitioning into cybersecurity with a focus on contributing to Security Operations Centers (SOCs) as a Tier 1 Analyst. I am eager to utilize my skills to proactively defend against cybercriminal activities and mitigate risks effectively, ultimately fostering a secure digital environment. Joining a forward-thinking organization where I can collaborate with like-minded professionals to address emerging cybersecurity challenges is my goal.
 
 ## Skills
 |                                                     | Associated Project                            |
