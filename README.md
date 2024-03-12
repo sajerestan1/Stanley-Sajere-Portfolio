@@ -5,7 +5,7 @@
 
 
 ## Introduction
-As a cybersecurity enthusiast with strong communication, time management, and programming skills, I am passionate about safeguarding organizations and individuals from cyber threats while ensuring adherence to legal frameworks and promoting equitable access to technology. With a background in Physics and Electronics.
+I am an enthusiastic cybersecurity professional with robust abilities in communication, time management, technical writing, and programming. My passion lies in meticulously documenting solutions to protect organizations and individuals from cyber threats, all while ensuring compliance with legal standards and advocating for equal access to technology. Leveraging my background in Physics and Electronics, I bring a unique perspective to the field.
 
 
 ## Objective
