@@ -1,7 +1,8 @@
 # Hello, I'm Stanley Sajere
 ## My Social Media Handles
 
-<a href="https://linkedin.com/in/stanleysajere" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.youtube.com/@Omaztech/videos"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a> <!--<a href="https://www.tiktok.com/@holyfathar?_t=8jp5UctjhXJ&_r=1"><img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>-->
+<a href="https://linkedin.com/in/stanleysajere" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.youtube.com/@Omaztech/videos"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="blank" /> <a href="https://hackernoon.com/"><img src="https://img.shields.io/badge/-Hackernoon-4CAF50?style=for-the-badge&logo=hackernoon&logoColor=white" /></a>
+
 
 
 ## Introduction
