@@ -85,7 +85,7 @@ I am an enthusiastic cybersecurity professional with robust abilities in communi
 </div>
 
 ## Projects
- - <a href="https://github.com/oluwadamilolag/Detection-Lab/blob/main/README.md"> Detection Lab</a>
+ - <a href="https://github.com/sajerestan1/Steganography-Demonstration">Steganography-Demonstration  </a>
  - <a href="https://github.com/oluwadamilolag/SOC-Analyst" />SOC Analyst</a>
  - <a href="https://github.com/oluwadamilolag/Certified-Cyber-Security-Analyst/blob/main/README.md#certified-cyber-security-analyst" />Certified Security Analyst</a>
  - SOC Automation Project
