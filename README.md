@@ -86,6 +86,6 @@ I am an enthusiastic cybersecurity professional with robust abilities in communi
 
 ## Projects
  - <a href="https://github.com/sajerestan1/Steganography-Demonstration">Steganography-Demonstration  </a>
- - <a href="https://github.com/oluwadamilolag/SOC-Analyst" />SOC Analyst</a>
+ - <a href="https://github.com/sajerestan1/Sublist3r-Subdomain-Enumeration-for-Beginners" />Sublist3r-Subdomain-Enumeration-for-Beginners </a>
  - <a href="https://github.com/sajerestan1/Nmap/" />Nmap-Project</a>
  - SOC Automation Project
