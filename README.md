@@ -6,17 +6,17 @@
 
 
 ## Introduction
-I am an enthusiastic cybersecurity professional with robust abilities in communication, time management, technical writing, and programming. My passion lies in meticulously documenting solutions to protect organizations and individuals from cyber threats, all while ensuring compliance with legal standards and advocating for equal access to technology. Leveraging my background in Physics and Electronics, I bring a unique perspective to the field.
+I am an enthusiastic cybersecurity professional with robust communication, time management, technical writing, and programming abilities. My passion lies in meticulously documenting solutions to protect organizations and individuals from cyber threats while ensuring compliance with legal standards and advocating for equal access to technology. Leveraging my background in Physics and Electronics, I bring a unique perspective to the field.
 
 
 ## Objective
- I am transitioning into cybersecurity with a focus on contributing to Security Operations Centers (SOCs) as a Tier 1 Analyst. I am eager to utilize my skills to proactively defend against cybercriminal activities and mitigate risks effectively, ultimately fostering a secure digital environment. Joining a forward-thinking organization where I can collaborate with like-minded professionals to address emerging cybersecurity challenges is my goal.
+ I am transitioning into cybersecurity, focusing on contributing to Security Operations Centers (SOCs) as a Tier 1 Analyst. I am eager to utilize my skills to proactively defend against cybercriminal activities and mitigate risks effectively, ultimately fostering a secure digital environment. Joining a forward-thinking organization where I can collaborate with like-minded professionals to address emerging cybersecurity challenges is my goal.
 
 ## Skills
 |                                                     | Associated Project                            |
 |-----------------------------------------------------|-------------------------------------------------------------------------------------------------|
 | SIEM Implementation and Log Analysis                | <a href="https://github.com/oluwadamilolag/Detection-Lab/blob/main/README.md"> Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection     | <a href="google.com">Detection Lab</a>                                                          |
+| Network Traffic Monitoring and analysis             | <a href="google.com">Traffic Analysis Lab</a>                                                   |
 | Security Automation with Shuffle SOAR               | <a href="google.com">Detection Lab</a>                                                          |
 | Incident Response Planning and Execution            | <a href="google.com">Detection Lab</a>                                                          |
 | Case Management with TheHive                        | <a href="google.com">Detection Lab</a>                                                          |
@@ -88,4 +88,5 @@ I am an enthusiastic cybersecurity professional with robust abilities in communi
  - <a href="https://github.com/sajerestan1/Steganography-Demonstration">Steganography-Demonstration  </a>
  - <a href="https://github.com/sajerestan1/Sublist3r-Subdomain-Enumeration-for-Beginners" />Sublist3r-Subdomain-Enumeration-for-Beginners </a>
  - <a href="https://github.com/sajerestan1/Nmap/" />Nmap-Project</a>
+ <a href="https://github.com/sajerestan1/Nmap/" />Deploying HTML Web Page Using AWS EC2</a>
  - SOC Automation Project
