@@ -15,8 +15,8 @@ I am an enthusiastic cybersecurity professional with robust communication, time 
 ## Skills
 |                                                     | Associated Project                            |
 |-----------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| SIEM Implementation and Log Analysis and-Response               | <a href="https://github.com/sajerestan1/Enhancing-Cybersecurity-Monitoring-and-Response" > Enhancing-Cybersecurity-Monitoring and-Response</a>, <a href="https://github.com/sajerestan1/Investigating-with-ELK-101">Investigating-with-ELK-101</a> |
-| SIEM Implementation and Log Analysis and-Response           | <a href="https://github.com/sajerestan1/Investigating-with-ELK-101">Investigating-with-ELK-101</a>                                                   |
+| SIEM Implementation and Log Analysis and-Response               | <a href="https://github.com/sajerestan1/Enhancing-Cybersecurity-Monitoring-and-Response"  > Enhancing Cybersecurity Monitoring and Response</a>, <a href="https://github.com/sajerestan1/Investigating-with-ELK-101" >Investigating with ELK 101 </a>, <a href="https://github.com/sajerestan1/Introduction-to-SIEM-project">Introduction to SIEM Project</a>,  <a href="https://github.com/sajerestan1/ItsyBitsy">Investigate a potential C2 communication alert With ItsyBitsy</a>  |
+| SIEM Implementation and Log Analysis and-Response           | <a href="https://github.com/sajerestan1/Introduction-to-SIEM-project">Introduction to SIEM Project</a>                                                   |
 | Network Traffic Monitoring and analysis             | <a href="https://github.com/sajerestan1/Investigating-with-ELK-101">Investigating-with-ELK-101</a>                                                   |
 | Security Automation with Shuffle SOAR               | <a href="google.com">Detection Lab</a>                                                          |
 | Incident Response Planning and Execution            | <a href="google.com">Detection Lab</a>                                                          |
