@@ -113,6 +113,8 @@ I am an enthusiastic cybersecurity professional with robust communication, time 
   <li>System Safeguards</li>
   <li>Network Basics</li>
   <li>Cybersecurity Administration</li>
+  <li>NDG Linux Unhatched</li>
+  <li>NDG Linux Essentials</li>
 </ul>
  <!--     <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna-linux.html"><img src="https://img.shields.io/badge/-Cisco%20Linux-1DA1F2?style=for-the-badge&logo=cisco&logoColor=white" /></a> <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna-linux.html"><img src="https://img.shields.io/badge/-Cisco%20Introduction to Cybersecurity-1DA1F2?style=for-the-badge&logo=cisco&logoColor=white" /></a>
  <a href="https://www.cybrary.it/catalog/cybrary-security-plus/"><img src="https://img.shields.io/badge/-Cybrary%20Security%2B-00537B?style=for-the-badge&logo=cybrary&logoColor=white" /></a> -->
