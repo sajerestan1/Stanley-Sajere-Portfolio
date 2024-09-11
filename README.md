@@ -98,11 +98,43 @@ I am an enthusiastic cybersecurity professional with robust communication, time 
 
 ## Certifications
 <div>
-    <a href="https://www.comptia.org/certifications/network"><img src="https://img.shields.io/badge/-CompTIA%20security%2B-00AEEF?style=for-the-badge&logo=comptia&logoColor=white" /></a>
-    <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/cyber-ops.html"><img src="https://img.shields.io/badge/-Cisco%20CyberOps-1DA1F2?style=for-the-badge&logo=cisco&logoColor=white" /></a>
-    <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna-linux.html"><img src="https://img.shields.io/badge/-Cisco%20Linux-1DA1F2?style=for-the-badge&logo=cisco&logoColor=white" /></a>
-<!--     <a href="https://www.cybrary.it/catalog/cybrary-security-plus/"><img src="https://img.shields.io/badge/-Cybrary%20Security%2B-00537B?style=for-the-badge&logo=cybrary&logoColor=white" /></a> -->
+    <a href="https://www.comptia.org/certifications/network"><img src="https://img.shields.io/badge/-CompTIA%20security%2B-00AEEF?style=for-the-badge&logo=comptia&logoColor=white" /></a> 
+ <br>
+ <br>
+    <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/cyber-ops.html"><img src="https://img.shields.io/badge/-Cisco%20-1DA1F2?style=for-the-badge&logo=cisco&logoColor=white" /></a>
+ <br>
+<ul>
+  <li>Introduction to Cybersecurity</li>
+  <li>Cybersecurity Pathway</li>
+  <li>Internet Protocol Basics</li>
+  <li>Basic Cisco Configuration</li>
+  <li>Getting Started with Cisco Packet Tracer</li>
+  <li>Threat Analysis</li>
+  <li>System Safeguards</li>
+  <li>Network Basics</li>
+  <li>Cybersecurity Administration</li>
+</ul>
+ <!--     <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna-linux.html"><img src="https://img.shields.io/badge/-Cisco%20Linux-1DA1F2?style=for-the-badge&logo=cisco&logoColor=white" /></a> <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna-linux.html"><img src="https://img.shields.io/badge/-Cisco%20Introduction to Cybersecurity-1DA1F2?style=for-the-badge&logo=cisco&logoColor=white" /></a>
+ <a href="https://www.cybrary.it/catalog/cybrary-security-plus/"><img src="https://img.shields.io/badge/-Cybrary%20Security%2B-00537B?style=for-the-badge&logo=cybrary&logoColor=white" /></a> -->
     <a href="#"><img src="https://img.shields.io/badge/-ISC%20CC-FF6600?style=for-the-badge&logo=isc&logoColor=white" /></a>
+<br>
+ <br>
+<a href="#"><img src="https://img.shields.io/badge/-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" /></a>
+ <ul>
+  <li>SQL for Data Science</li>
+  <li>Modern WordPress Development</li>
+  <li>Database Management Systems - MySQL</li>
+  <li>OSINT Content Discovery</li>
+  <li>Web Development Project (CMS) Using PHP, MySQLi</li>
+  <li>Nmap Crash Course for Beginners</li>
+</ul>
+<br>
+<a href="#"><img src="https://img.shields.io/badge/-GoMyCode-FF0000?style=for-the-badge&logo=GoMyCode&logoColor=white" /></a>
+<ul>
+  <li>Introduction to Cybersecurity</li>
+  <li>CompTIA Security+ Bootcamp</li>
+</ul>
+
 <!--   <a href="https://www.fortinet.com/training/certification/nse1.html"><img src="https://img.shields.io/badge/-Fortinet%20NSE%201-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" /></a>
     <a href="https://www.fortinet.com/training/certification/nse2.html"><img src="https://img.shields.io/badge/-Fortinet%20NSE%202-4482FF?style=for-the-badge&logo=fortinet&logoColor=white" /></a>
     <a href="https://www.fortinet.com/training/certification/nse3.html"><img src="https://img.shields.io/badge/-Fortinet%20NSE%203-FF3333?style=for-the-badge&logo=fortinet&logoColor=white" /></a> -->
