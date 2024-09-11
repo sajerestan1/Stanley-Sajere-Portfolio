@@ -102,17 +102,12 @@ I am an enthusiastic cybersecurity professional with robust communication, time 
     <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/cyber-ops.html"><img src="https://img.shields.io/badge/-Cisco%20CyberOps-1DA1F2?style=for-the-badge&logo=cisco&logoColor=white" /></a>
     <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna-linux.html"><img src="https://img.shields.io/badge/-Cisco%20Linux-1DA1F2?style=for-the-badge&logo=cisco&logoColor=white" /></a>
 <!--     <a href="https://www.cybrary.it/catalog/cybrary-security-plus/"><img src="https://img.shields.io/badge/-Cybrary%20Security%2B-00537B?style=for-the-badge&logo=cybrary&logoColor=white" /></a> -->
-    <a href="https://www.isc.org/certifications/cc/"><img src="https://img.shields.io/badge/-ISC%20CC-FF6600?style=for-the-badge&logo=isc&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/-ISC%20CC-FF6600?style=for-the-badge&logo=isc&logoColor=white" /></a>
 <!--   <a href="https://www.fortinet.com/training/certification/nse1.html"><img src="https://img.shields.io/badge/-Fortinet%20NSE%201-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" /></a>
     <a href="https://www.fortinet.com/training/certification/nse2.html"><img src="https://img.shields.io/badge/-Fortinet%20NSE%202-4482FF?style=for-the-badge&logo=fortinet&logoColor=white" /></a>
     <a href="https://www.fortinet.com/training/certification/nse3.html"><img src="https://img.shields.io/badge/-Fortinet%20NSE%203-FF3333?style=for-the-badge&logo=fortinet&logoColor=white" /></a> -->
 </div>
 
-## Projects
- - <a href="https://github.com/sajerestan1/Steganography-Demonstration">Steganography-Demonstration  </a>
- - <a href="https://github.com/sajerestan1/Sublist3r-Subdomain-Enumeration-for-Beginners" />Sublist3r-Subdomain-Enumeration-for-Beginners </a>
- - <a href="https://github.com/sajerestan1/Nmap/" />Nmap-Project</a>
-- <a href="https://github.com/sajerestan1/html-AWS-EC2-/tree/main">Deploying HTML Web Page Using AWS EC2</a>
 
 
 
@@ -122,55 +117,5 @@ I am an enthusiastic cybersecurity professional with robust communication, time 
 
 
 
- | Cyber Defence Frameworks  | Cyber Threat Intelligence | Network Security and Traffic Analysis | Endpoint Security Monitoring | Security Information and Event Management | Digital Forensics and Incident Response |
-|---------------------------|---------------------------|----------------------------------------|------------------------------|--------------------------------------------|-----------------------------------------|
-| SOC Level 1 Capstone Challenges
-| Phishing                | Network Packet Capture Analysis       | Endpoint Detection and Response (EDR) | Log Collection and Monitoring               | Memory Forensics                         |
-| NIST Frameworks            | Threat Intelligence Platforms | IDS/IPS Detection                    | Antivirus Monitoring          | Log Correlation and Aggregation           | File System Analysis                    |
-| MITRE ATT&CK               | OSINT Sources              | Wireshark Analysis                    | Endpoint Threat Hunting       | SIEM Use Cases and Playbooks              | Registry Analysis                       |
-| ISO 27001                  | Threat Actor Attribution   | Network Traffic Logs                  | Patch Management              | SIEM Alerting and Dashboards              | Incident Response Workflow              |
-| CIS Controls               | Malware Analysis           | NetFlow Analysis                      | Endpoint Vulnerability Management | Incident Prioritization                   | Disk Forensics                          |
-| Risk Management Frameworks | Indicator of Compromise (IOC) Collection | Network Behavior Analysis            | Threat Detection Tools        | SIEM Rule Creation and Tuning             | Malware Triage                          |
-| Defense in Depth Strategies | Threat Hunting Techniques | DNS Traffic Analysis                  | Asset Inventory Management    | SIEM Integration with External Tools      | Timeline Analysis                       |
-| Kill Chain Methodology     | APT Groups and TTPs        | Packet Inspection                     | Endpoint Logging              | SIEM Incident Response Integration        | Log File Forensics                      |
-| Cybersecurity Compliance   | Threat Feeds and Alerts    | SSL/TLS Traffic Analysis              | Endpoint Activity Monitoring  | SIEM SOC Automation                      | Evidence Preservation                   |
-| Zero Trust Architecture    | Threat Intelligence Sharing | Firewall and Proxy Logs              | Endpoint Configuration        | SIEM Threat Intelligence Integration      | Malware Reverse Engineering             |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-| Topic                                           | Associated Project                                                                                       | 
-|-------------------------------------------------|----------------------------------------------------------------------------------------------------------|
-| Cyber Defence Frameworks                        | <a href="https://github.com/yourusername/yourproject">Cyber Defence Frameworks Project</a>   <a href="https://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html"><img src="https://img.shields.io/badge/-Pyramid%20of%20Pain-FF5733?style=for-the-badge&logo=security&logoColor=white" /></a>
-               |
-| Cyber Threat Intelligence                       | <a href="https://github.com/yourusername/yourproject">Cyber Threat Intelligence Project</a>               |
-| Network Security and Traffic Analysis           | <a href="https://github.com/yourusername/yourproject">Network Traffic Analysis Project</a>                 |
-| Endpoint Security Monitoring                    | <a href="https://github.com/yourusername/yourproject">Endpoint Security Monitoring Project</a>             |
-| Security Information and Event Management (SIEM)| <a href="https://github.com/yourusername/yourproject">SIEM Implementation Project</a>                      |
-| Digital Forensics and Incident Response (DFIR)  | <a href="https://github.com/yourusername/yourproject">Digital Forensics Project</a>                        |
-| Phishing                                        | <a href="https://github.com/yourusername/yourproject">Phishing Detection and Response</a>                  |
-| SOC Level 1 Capstone Challenges                 | <a href="https://github.com/yourusername/yourproject">SOC Level 1 Capstone Project</a>                     |
-| Threat Hunting                                  | <a href="https://github.com/yourusername/yourproject">Threat Hunting Project</a>                           |
-| Malware Analysis                                | <a href="https://github.com/yourusername/yourproject">Malware Analysis Project</a>                         |
 
 
