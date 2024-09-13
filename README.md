@@ -50,9 +50,10 @@ I am an enthusiastic cybersecurity professional with robust communication, time 
     <a href="https://www.snort.org/"><img src="https://img.shields.io/badge/-Snort-CC0000?style=for-the-badge&logo=snort&logoColor=white" /></a>
     <a href="https://wazuh.com/"><img src="https://img.shields.io/badge/-Wazuh-071D32?style=for-the-badge&logo=wazuh&logoColor=white" /></a>
     <a href="https://www.elastic.co/elasticsearch/"><img src="https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" /></a>
+ <a href="https://www.eset.com/"><img src="https://img.shields.io/badge/-ESET-00B56A?style=for-the-badge&logo=eset&logoColor=white" /></a>
    <!-- <a href="https://www.microsoft.com/en-us/windows/comprehensive-security"><img src="https://img.shields.io/badge/-Microsoft%20Defender-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" /></a>-->
     <!--<a href="https://www.velocidex.com/"><img src="https://img.shields.io/badge/-Velociraptor-64B5F6?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAQAAAD9CzEMAAABeElEQVR42sWVv0oDQRDGZ+S2KJZau2Kjs6SLRaJT5gS22TbZWNlkabPZdCtubdZ9baq3bt2NtnbNzFl5/uOK7X+frfTdx3bmduzh7Jy9b82b2W+tj+3LkivBm7wH/Z9H9dUqIqpfAj9R2cBAF5kUZsb4i8Yl8GzX8HfEFr+AU6blKbGVGZ4fYzVYBy7t0cG3uW4F1ChqBh4zrq5UBiJptPHCNok24xvqB06fXpFA7RDbwhRQck/s4GJKj4D3AbROf0sC1nWwUbAlId5AdM01HlRkAFJLxye0C5e78FhWk9v/3LbVlKdWIY8B9oXlSziGoa2CP8AbwPMRXdAL6Ct2A1v2VpNlPQcQU9j0KtIZSKs4Hsl1L8Q22FG4iwOLtOD4Bl+oHQfzjWFn8ZQvMAkOs4G4teRsE9DgA8vwKcZ4H0jpjKzN0Dx34CbRkQB1sKIApMGAH3HoW+lplIX3AAAAAElFTkSuQmCC&logoColor=white" /></a>
-    <a href="https://www.eset.com/"><img src="https://img.shields.io/badge/-ESET-00B56A?style=for-the-badge&logo=eset&logoColor=white" /></a>
+  
     <a href="https://edian.io/"><img src="https://img.shields.io/badge/-Edian%20Firewall-3399FF?style=for-the-badge&logo=fireeye&logoColor=white" /></a> -->
 </div>
 
