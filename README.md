@@ -101,7 +101,7 @@ I am an enthusiastic cybersecurity professional with robust communication, time 
 
 ## Certifications
 <div>
-    <a href="https://www.comptia.org/certifications/network"><img src="https://img.shields.io/badge/-CompTIA%20security%2B-00AEEF?style=for-the-badge&logo=comptia&logoColor=white" /></a> 
+<!--     <a href="https://www.comptia.org/certifications/network"><img src="https://img.shields.io/badge/-CompTIA%20security%2B-00AEEF?style=for-the-badge&logo=comptia&logoColor=white" /></a>  -->
  <br>
  <br>
     <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/cyber-ops.html"><img src="https://img.shields.io/badge/-Cisco%20-1DA1F2?style=for-the-badge&logo=cisco&logoColor=white" /></a>
@@ -136,8 +136,14 @@ I am an enthusiastic cybersecurity professional with robust communication, time 
 <br>
 <a href="#"><img src="https://img.shields.io/badge/-GoMyCode-FF0000?style=for-the-badge&logo=GoMyCode&logoColor=white" /></a>
 <ul>
-  <li>Introduction to Cybersecurity</li>
-  <li>CompTIA Security+ Bootcamp</li>
+  <li>Diploma in Cybersecurity</li>
+  <li>CompTIA Security+ in View</li>
+</ul>
+
+<a href="https://github.com/sajerestan1/Stanley-Sajere-Portfolio"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
+<ul>
+
+ <li>Security Operation Center Analyst</li>
 </ul>
 
 <!--   <a href="https://www.fortinet.com/training/certification/nse1.html"><img src="https://img.shields.io/badge/-Fortinet%20NSE%201-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" /></a>
